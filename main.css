@@ -1,0 +1,222 @@
+.container {
+    width: 80% !important;
+}
+
+.head {
+    width: 100%;
+    text-align: center;
+}
+
+.head img {
+    width: 90%;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.ways {
+    padding-top: 40px;
+    margin-bottom: 100px;
+}
+
+.ways-one,
+.ways-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ways-three {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+}
+
+.count {
+    /* width: 100%;
+    height: 427px; */
+    background: url(../2018-12-14/images/xcbg.jpg) no-repeat center center;
+    background-color: #132E63;
+    padding: 113px 10%;
+    /* margin-top: 70px; */
+    /* height: 419px; */
+    overflow: hidden;
+}
+
+.count-2 {
+    /* width: 80%;
+    height: 246px; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    border: 1px solid #ccc;
+    /* margin-top: 102px;
+    margin-right: 43px; */
+}
+
+h1 {
+    color: white;
+}
+
+.pictrue img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.pp {
+    color: white;
+    font-size: 20px;
+}
+
+.six {
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.six-2 {
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.six-3 {
+    color: red;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-left: 20px;
+}
+
+.line {
+    width: 100%;
+    text-align: center;
+}
+
+.line-long {
+    width: 22%;
+    height: 2px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14px;
+}
+
+.line-short {
+    width: 8%;
+    height: 2px;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -16px;
+    position: relative;
+}
+
+.photo img {
+    width: 100%;
+    margin-top: 59px;
+    /* margin-left: 120px; */
+}
+
+.popular {
+    margin-top: 59px;
+}
+
+.popular img,
+.sale img {
+    width: 100%;
+}
+
+.sale {
+    margin-top: 59px;
+}
+
+.step {
+    background: url(../2018-12-14/images/xcbg.jpg) no-repeat center center;
+    background-color: #132E63;
+    /* height: 331px; */
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.step-1 {
+    text-align: center;
+}
+
+.step-1 p {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.p-hua {
+    width: 186px;
+    font-size: 12px;
+}
+
+.white-line {
+    width: 60%;
+    border: 0.5px solid white;
+}
+
+table {
+    width: 100%;
+    height: 152px;
+    border-collapse: collapse;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+table,
+td {
+    border: 2px solid black;
+}
+
+.money {
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 24px;
+}
+
+.money-2 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.care {
+    color: red;
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 33px;
+}
+
+.kefu,
+.work {
+    font-weight: bolder;
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bottom {
+    background-color: #333439;
+    height: 100px;
+}
